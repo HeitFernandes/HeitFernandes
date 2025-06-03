@@ -16,6 +16,11 @@ Atualmente estudo **Desenvolvimento de Software Multiplataforma** na **FATEC**. 
   </center>
 </div>
 
+## Contatos:
+<div>
+<a href = "mailto:contato@fernandesheitort2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/samuel-heitor-fernandes-2a769b360?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaYJukOB0QAqC79YaFd972w%3D%3D/in/Samuel Heitor Fernandes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 
