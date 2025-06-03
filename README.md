@@ -16,7 +16,7 @@ Atualmente estudo **Desenvolvimento de Software Multiplataforma** na **FATEC**. 
   </center>
 </div>
 
-![Snake animation](https://HeitFernandes.github.io/HeitFernandes/github-contribution-grid-snake.svg)
+
 
 
 
