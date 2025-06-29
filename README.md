@@ -1,11 +1,12 @@
 # Heitor Fernandes - Backend Java Engineer
-
-<div align="center">
+<br>
+ <div align="center">
 <a href="https://github.com/HeitFernandes">
 <img loading="lazy" height="150em" style="margin-right: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitFernandes&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=HeitFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
+<br>
 
 ```java
 /**
