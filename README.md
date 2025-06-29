@@ -1,5 +1,7 @@
 # Heitor Fernandes - Backend Java Engineer
 
+## Sobre Mim
+
 ```java
 /**
  * Estudante FATEC DSM 1º Semestre | Backend Engineer
@@ -36,3 +38,10 @@ class Stack {
     private String databases;
     private String architecture;
 }
+
+---
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitFernandes&layout=compact&langs_count=7&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeitFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
