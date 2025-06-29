@@ -10,7 +10,7 @@
 
 ```java
 /**
- * Estudante FATEC DSM 1º Semestre | Backend Engineer
+ * Estudante FATEC DSM 1º Semestre | Backend Java Engineer
  * 
  * Neste perfil compartilho:
  * - Projetos acadêmicos e experimentos em Java
