@@ -1,33 +1,38 @@
-## Fala, Devs! Sou o Heitor 👨‍💻
-Atualmente estudo **Desenvolvimento de Software Multiplataforma** na **FATEC**. Sempre em busca de novos aprendizados, aqui compartilho meus projetos, estudos e contribuições.
+# Heitor Fernandes - Backend Engineer
 
+```java
+/**
+ * Estudante FATEC DSM 1º Semestre | Backend Engineer
+ * Transformando café em sistemas escaláveis ☕
+ * 
+ * Neste perfil compartilho:
+ * - Projetos acadêmicos e experimentos em Java
+ * - Estudos de Spring Boot e arquitetura de software
+ * - Resoluções de desafios algorítmicos
+ * - Evolução do meu roadmap de desenvolvimento
+ */
+@SpringBootApplication
+public class HeitProfile {
+    public static void main(String[] args) {
+        SpringApplication.run(HeitProfile.class, args);
+    }
 
+    @Bean
+    public Stack techStack() {
+        return Stack.builder()
+            .language("Java 17")
+            .frameworks("Spring Boot 3, Hibernate")
+            .databases("PostgreSQL, MongoDB")
+            .architecture("Microservices")
+            .build();
+    }
+}
 
-## 🌱 Atualmente estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-## GitHub Stats
-<div>
-  <a href="https://github.com/HeitFernandes">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitFernandes&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
-
-## Contatos:
-<div>
-<a href = "mailto:fernandesheitort2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuel-heitor-fernandes-2a769b360" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
-
-
-
-
-          
-          
-
+@Data
+@Builder
+class Stack {
+    private String language;
+    private String frameworks;
+    private String databases;
+    private String architecture;
+}
