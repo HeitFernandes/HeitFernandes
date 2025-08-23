@@ -1,4 +1,4 @@
-# Heitor Fernandes - Backend Java Engineer
+# Heitor Fernandes - Backend Developer
 <br>
  <div align="center">
 <a href="https://github.com/HeitFernandes">
